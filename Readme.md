@@ -1,14 +1,15 @@
-Breath Theme
+Ghost Theme
 =============
 
-Breath Look & Feel package.
+Ghost Look & Feel package. A work in progress!
 
 ## Contents
 
 * Color scheme
-* Icons, based on Breeze https://cgit.kde.org/breeze-icons.git/
+* Icons, based on Breath
 * Plasma theme
-* Sddm theme, lock screen and splash screen based on Breeze.
-* Breath wallpaper
+* Sddm theme, lock screen and splash screen based on Breath.
+* Ghost wallpaper
 
+Image not ready yet!
 ![Alt text](/lookandfeel/contents/previews/preview.png?raw=true)
