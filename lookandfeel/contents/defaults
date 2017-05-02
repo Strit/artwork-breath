@@ -2,13 +2,13 @@
 widgetStyle=breeze
 
 [kdeglobals][General]
-ColorScheme=Breath
+ColorScheme=Ghost
 
 [kdeglobals][Icons]
 Theme=breath
 
 [plasmarc][Theme]
-name=breath
+name=Ghost
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
