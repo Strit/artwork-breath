@@ -41,7 +41,7 @@ if (INSTALL_SDDM_THEME)
 endif()
 
 INSTALL(FILES colors/Ghost.colors DESTINATION ${DATA_INSTALL_DIR}/color-schemes/)
-INSTALL(DIRECTORY aurorae/themes/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/aurorae/themes/
+INSTALL(DIRECTORY aurorae/themes/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/aurorae/themes/)
 if(EXISTS ${CMAKE_SOURCE_DIR}/po AND IS_DIRECTORY ${CMAKE_SOURCE_DIR}/po)
   find_package(KF5I18n CONFIG REQUIRED)
   ki18n_install(po)
