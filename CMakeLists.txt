@@ -26,7 +26,7 @@ include(GenerateExportHeader)
 
 add_subdirectory(icons)
 add_subdirectory(icons-dark)
-add_subdirectory(breath)
+add_subdirectory(ghost)
 add_subdirectory(wallpapers)
 
 plasma_install_package(lookandfeel org.kde.ghost.desktop look-and-feel lookandfeel)
