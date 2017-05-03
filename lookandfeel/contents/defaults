@@ -8,7 +8,7 @@ ColorScheme=Ghost
 Theme=breath
 
 [plasmarc][Theme]
-name=Ghost
+name=ghost
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
