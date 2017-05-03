@@ -19,6 +19,14 @@ LayoutName=org.kde.breeze.desktop
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
+[kwinrc][org.kde.kdecoration2]
+BorderSize=Normal
+ButtonsOnLeft=MS
+ButtonsOnRight=HIAX
+CloseOnDoubleClickOnMenu=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__ghost-deco-2_2
+
 [ksplashrc][KSplash]
 Engine=KSplashQML
 Theme=org.kde.breath.desktop
