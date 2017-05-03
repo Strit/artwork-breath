@@ -26,7 +26,7 @@ include(GenerateExportHeader)
 
 #add_subdirectory(icons)
 #add_subdirectory(icons-dark)
-add_subdirectory(ghost)
+#add_subdirectory(ghost)
 #add_subdirectory(aurorae)
 #add_subdirectory(wallpapers)
 
@@ -42,6 +42,7 @@ endif()
 
 INSTALL(FILES colors/Ghost.colors DESTINATION ${DATA_INSTALL_DIR}/color-schemes/)
 INSTALL(DIRECTORY aurorae/themes/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/aurorae/themes/)
+INSTALL(DIRECTORY ghost/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/plasma/desktopthme/)
 if(EXISTS ${CMAKE_SOURCE_DIR}/po AND IS_DIRECTORY ${CMAKE_SOURCE_DIR}/po)
   find_package(KF5I18n CONFIG REQUIRED)
   ki18n_install(po)
