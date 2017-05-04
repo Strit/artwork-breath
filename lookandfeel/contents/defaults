@@ -36,3 +36,9 @@ Theme=org.kde.ghost.desktop
 
 [kscreenlockerrc][Greeter][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/plasma/look-and-feel/org.kde.ghost.desktop/contents/components/artwork/background.png
+
+[plasma-org.kde.plasma.desktop-appletsrc][Containments][2][Applets][3][Configuration][General]
+icon=manjaro
+
+[plasma-org.kde.plasma.desktop-appletsrc][Containments][26][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/plasma/look-and-feel/org.kde.ghost.desktop/contents/components/artwork/background.png
