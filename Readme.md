@@ -15,4 +15,4 @@ Ghost Look & Feel package. A work in progress!
 * Found no better matching icon theme than Breath.
 * Preview images are still using Breath images.
 
-![Alt text](/lookandfeel/contents/previews/preview.png?raw=true
+![Alt text](/lookandfeel/contents/previews/preview.png?raw=true)
