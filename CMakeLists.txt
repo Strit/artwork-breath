@@ -26,7 +26,7 @@ include(GenerateExportHeader)
 
 #add_subdirectory(icons)
 #add_subdirectory(icons-dark)
-#add_subdirectory(ghost)
+add_subdirectory(Ghost)
 #add_subdirectory(aurorae)
 #add_subdirectory(wallpapers)
 
