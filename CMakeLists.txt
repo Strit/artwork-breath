@@ -41,6 +41,7 @@ if (INSTALL_SDDM_THEME)
 endif()
 
 INSTALL(FILES colors/Ghost.colors DESTINATION ${DATA_INSTALL_DIR}/color-schemes/)
+INSTALL(FILES konsole/Ghost.colorscheme DESTINATION ${DATA_INSTALL_DIR}/konsole/)
 INSTALL(DIRECTORY aurorae/themes/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/aurorae/themes/)
 INSTALL(DIRECTORY ghost/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/plasma/desktoptheme/ghost/)
 INSTALL(DIRECTORY Ghost/ DESTINATION ${DATA_INSTALL_DIR}/themes/)
