@@ -40,5 +40,8 @@ Image=file:///usr/share/plasma/look-and-feel/org.kde.ghost.desktop/contents/comp
 [plasma-org.kde.plasma.desktop-appletsrc][Containments][2][Applets][3][Configuration][General]
 icon=manjaro
 
-[plasma-org.kde.plasma.desktop-appletsrc][Containments][26][Wallpaper][org.kde.image][General]
+[plasma-org.kde.plasma.desktop-appletsrc][Containments][35][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/plasma/look-and-feel/org.kde.ghost.desktop/contents/components/artwork/background.png
+
+[konsolerc][Desktop Entry]
+DefaultProfile=Manjaro Strit
